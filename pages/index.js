@@ -13,6 +13,9 @@ function HomePage() {
             <div>
                 <button>Add to cart</button>
             </div>
+            <div>
+                <a href="https://checkout-poc.anechitoaie.ro/cart">Cart</a>
+            </div>
         </div>
     );
 }
