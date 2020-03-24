@@ -9,4 +9,4 @@ function Index() {
     );
 }
 
-export default HomePage;
+export default Index;
