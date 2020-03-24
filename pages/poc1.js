@@ -5,7 +5,7 @@ const getURL = path => {
     return `https://checkout-poc.anechitoaie.ro/s/RefArch/dw/shop/v20_4${path}?client_id=3d09df51-3ce2-42c7-9ecf-af4873ff1885`;
 };
 
-function HomePage() {
+function Poc1() {
     const [cartData, setCartData] = useState([]);
     const [userData, setUserData] = useState(null);
 
@@ -95,4 +95,4 @@ function HomePage() {
     );
 }
 
-export default HomePage;
+export default Poc1;
