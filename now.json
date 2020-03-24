@@ -1,0 +1,4 @@
+{
+    "version": 2,
+    "rewrites": [{ "source": "/s/(.*)", "destination": "https://osfglobal30-alliance-prtnr-eu06-dw.demandware.net/$1" }]
+}
