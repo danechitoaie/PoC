@@ -5,6 +5,10 @@
         {
             "source": "/on/demandware.static/(.*)",
             "destination": "https://osfglobal30-alliance-prtnr-eu06-dw.demandware.net/on/demandware.static/$1"
+        },
+        {
+            "source": "/on/demandware.store/(.*)",
+            "destination": "https://osfglobal30-alliance-prtnr-eu06-dw.demandware.net/on/demandware.store/$1"
         }
     ]
 }
